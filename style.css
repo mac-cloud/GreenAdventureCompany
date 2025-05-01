@@ -784,7 +784,7 @@ header.sticky {
   
     box-sizing: border-box;
     color: green;
-    font-size: 18px;
+    font-size: 24px;
     animation: scroll-left 12s linear infinite;
   }
   
