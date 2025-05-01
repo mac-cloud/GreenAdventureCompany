@@ -781,7 +781,7 @@ header.sticky {
 .scrolling-text {
     white-space: nowrap;
     overflow: hidden;
-    width: 50%;
+   
     box-sizing: border-box;
     color: green;
     font-size: 18px;
