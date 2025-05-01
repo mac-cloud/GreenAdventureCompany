@@ -781,10 +781,10 @@ header.sticky {
 .scrolling-text {
     white-space: nowrap;
     overflow: hidden;
-    width: 70%;
+    width: 50%;
     box-sizing: border-box;
     color: green;
-    font-size: 24px;
+    font-size: 18px;
     animation: scroll-left 12s linear infinite;
   }
   
